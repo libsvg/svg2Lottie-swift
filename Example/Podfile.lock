@@ -1,0 +1,16 @@
+PODS:
+  - svg2Lottie (0.1.0)
+
+DEPENDENCIES:
+  - svg2Lottie (from `../`)
+
+EXTERNAL SOURCES:
+  svg2Lottie:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  svg2Lottie: ccb77d2cd073e18fd12c6d4d5b860f7381978da0
+
+PODFILE CHECKSUM: f8b9dcf487094ce129b1a5aa21066b60c5715773
+
+COCOAPODS: 1.8.0.beta.2
