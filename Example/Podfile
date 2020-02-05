@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'svg2Lottie_Example' do
+  pod 'svg2Lottie', :path => '../'
+
+  target 'svg2Lottie_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
